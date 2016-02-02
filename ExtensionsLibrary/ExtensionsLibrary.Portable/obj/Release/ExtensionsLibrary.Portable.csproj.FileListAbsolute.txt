@@ -1,0 +1,5 @@
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Portable\bin\Release\ExtensionsLibrary.Portable.dll
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Portable\bin\Release\ExtensionsLibrary.Portable.pdb
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Portable\obj\Release\ExtensionsLibrary.Portable.csprojResolveAssemblyReference.cache
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Portable\obj\Release\ExtensionsLibrary.Portable.dll
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Portable\obj\Release\ExtensionsLibrary.Portable.pdb

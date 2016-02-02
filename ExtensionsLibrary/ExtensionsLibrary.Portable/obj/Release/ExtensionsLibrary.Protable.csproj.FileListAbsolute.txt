@@ -1,0 +1,5 @@
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Protable\bin\Release\ExtensionsLibrary.Protable.dll
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Protable\bin\Release\ExtensionsLibrary.Protable.pdb
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Protable\obj\Release\ExtensionsLibrary.Protable.csprojResolveAssemblyReference.cache
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Protable\obj\Release\ExtensionsLibrary.Protable.dll
+\\sit.inet\sit\home\Staff\Max.Meng\MySettings\Desktop\GitHub\ExtensionLibrary\ExtensionLibrary\ExtensionsLibrary.Protable\obj\Release\ExtensionsLibrary.Protable.pdb

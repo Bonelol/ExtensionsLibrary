@@ -1,0 +1,13 @@
+2016/02/02-15:53:06.168 7398 Delete type=3 #1
+2016/02/02-15:53:12.382 15e8 Level-0 table #5: started
+2016/02/02-15:53:12.774 15e8 Level-0 table #5: 3978936 bytes OK
+2016/02/02-15:53:12.779 15e8 Delete type=0 #3
+2016/02/02-15:53:12.982 15e8 Level-0 table #7: started
+2016/02/02-15:53:13.207 15e8 Level-0 table #7: 4395657 bytes OK
+2016/02/02-15:53:13.220 15e8 Delete type=0 #4
+2016/02/02-15:53:13.470 15e8 Level-0 table #9: started
+2016/02/02-15:53:13.909 15e8 Level-0 table #9: 3850845 bytes OK
+2016/02/02-15:53:13.939 15e8 Delete type=0 #6
+2016/02/02-16:01:54.949 15e8 Level-0 table #11: started
+2016/02/02-16:01:55.262 15e8 Level-0 table #11: 4862429 bytes OK
+2016/02/02-16:01:55.262 15e8 Waiting after background compaction error: IO error: Deleting DB during memtable compaction
